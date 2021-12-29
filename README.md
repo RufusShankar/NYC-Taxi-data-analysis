@@ -13,7 +13,8 @@ The raw data has some issues, so we'll need to make the adjustments and assumpti
 Once the data is cleaned up, I’m hoping you can build me a dashboard to help with weekly planning and logistics.
 
 ### Data is cleaned with python as shared in the ipynb file
-### Visualization is done in Tableau 
+### Once cleaned, the dataset is exported into csv files and further analysis and visualizations are done in Tableau
+
 
 https://public.tableau.com/app/profile/rufus.m.g/viz/MavenTaxiChallenge_16395622439430/Dashboard1
 
